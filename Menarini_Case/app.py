@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from datetime import datetime
 from menarini_pipeline import MenariniDataPipeline
+import streamlit as st
 
 st.set_page_config(page_title="Menarini Asia Pacific - Data Pipeline", layout="wide")
 
